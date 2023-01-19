@@ -1,0 +1,15 @@
+D:\ДЗ\ДЗ1901\Задача29\bin\Debug\net6.0\Задача29.exe
+D:\ДЗ\ДЗ1901\Задача29\bin\Debug\net6.0\Задача29.deps.json
+D:\ДЗ\ДЗ1901\Задача29\bin\Debug\net6.0\Задача29.runtimeconfig.json
+D:\ДЗ\ДЗ1901\Задача29\bin\Debug\net6.0\Задача29.dll
+D:\ДЗ\ДЗ1901\Задача29\bin\Debug\net6.0\Задача29.pdb
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\Задача29.csproj.AssemblyReference.cache
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\Задача29.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\Задача29.AssemblyInfoInputs.cache
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\Задача29.AssemblyInfo.cs
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\Задача29.csproj.CoreCompileInputs.cache
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\Задача29.dll
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\refint\Задача29.dll
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\Задача29.pdb
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\Задача29.genruntimeconfig.cache
+D:\ДЗ\ДЗ1901\Задача29\obj\Debug\net6.0\ref\Задача29.dll
